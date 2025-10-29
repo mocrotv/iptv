@@ -1,0 +1,17 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 group-title=" DE " tvg-logo="",DE DE
+https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/de.m3u
+
+
+
+#EXTINF:-1 group-title=" DE PL " tvg-logo="",DE PL
+https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/de_pluto.m3u
+
+
+
+
+
+
